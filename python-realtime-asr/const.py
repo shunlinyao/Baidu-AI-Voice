@@ -4,9 +4,9 @@
 """
 
 # 下面2个是鉴权信息
-APPID = 10000000
+APPID = 81563760
 
-APPKEY = "g8eBUMSxxxxxgxLFYviL"
+APPKEY = "EgS6OogaCx0XkYJe2oQ9jIZ4"
 
 # 语言模型 ， 可以修改为其它语言模型测试，如远场普通话19362
 DEV_PID = 15372
